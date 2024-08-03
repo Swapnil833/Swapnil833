@@ -1,5 +1,9 @@
-## Hi there 👋
-
+## Hi there, I'm Swapnil Dudka 👋
+👀 I’m interested in Web Development
+🌱 I’m currently learning Backend Technologies like MongoDB
+📫 How to reach me: https://www.linkedin.com/in/swapnil-dudka-aa737b253/
+ 💬 Ask me about : ReactJS | Tailwind CSS
+ 
 <!--
 **Swapnil833/Swapnil833** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
