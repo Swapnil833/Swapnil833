@@ -1,4 +1,6 @@
-
+<img align="center" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<br>
+<br>
 <h1 align="center">Hello Friends 👋, I'm Swapnil Dudka</h1>
 <h3 align="center">A passionate Full Stack Web developer from India</h3>
 
